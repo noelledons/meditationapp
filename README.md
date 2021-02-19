@@ -1,6 +1,6 @@
 # Meditation App
 
-You can find the app [here](https://noelledons.github.io/meditationapp.github.io/).
+You can find the app [here](https://noelledons.github.io/meditationapp/).
 
 ## Summary
 A web app designed to provide ambient sounds for meditation. Users can choose between different timers and sounds
